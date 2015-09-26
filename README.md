@@ -12,6 +12,7 @@ The default settings are:
 - MOSI	- pin 15,
 - SCK		- pin 14,
 - NSS		- pin 17,
+
 but you can use another pins - change this by going into your RFM69.h file.
 
 Note: Don't delete the original RFM69 library folder if you had it - just move or rename it. If you want to use hardware SPI again you have to return to the regular version of RFM69 library.
